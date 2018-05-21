@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=3.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=eddge">
+    <title>TABELA BOLETIM ESCOLAR</title>
+</head>
+<body>
+     <table border="9">
+          <tr><td>NOME</td><td>1ºBimestre</td><td>2ºBimestre</td><td>3ºBimestre</td><td>4ºBimestre</td></tr>
+          <tr><td>Jhonatan</td><td>75</td><td>80</td><td>70</td><td>75</td></tr>
+          <tr><td>Hallyson</td><td>65</td><td>80</td><td>95</td><td>90</td></tr>
+          <tr><td>Guilherme</td><td>70</td><td>86</td><td>75</td><td>85</td></tr>
+          <tr><td>Gabriela</td><td>95</td><td>85</td><td>75</td><td>95</td></tr>
+     </table>
+</body>
+</html>
